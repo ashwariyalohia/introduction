@@ -21,3 +21,9 @@
 - PHP
 - HTML/CSS
 >>>>>>> test
+
+## Qualities
+
+- Down to earth person
+- Humble and caring
+- Always on time
