@@ -4,3 +4,10 @@
 - designger
 - software developer
 - web engineer
+
+
+## Technologies I have command over
+
+- SQL database architechture
+- Networking and network security
+- Front End Web development and Designing
