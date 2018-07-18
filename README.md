@@ -1,1 +1,6 @@
-# Hi! my name is Ashwariya Lohia, and I am a thinker
+# Hi! my name is Ashwariya Lohia
+
+- thinker
+- designger
+- software developer
+- web engineer
