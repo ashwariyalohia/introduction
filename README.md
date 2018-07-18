@@ -27,5 +27,3 @@
 - Down to earth person
 - Humble and caring
 - Always on time
-- Always can depend upon
-- Time Efficient 
